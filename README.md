@@ -1,5 +1,5 @@
 ### Hi there 👋
-Learning JavaScript with WhiteHat Junior 
+Learning JavaScript with WhiteHat Junior .
 Its My Site on whjr https://ananya236.whjr.site/
 <!--
 **Ananya2306/Ananya2306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
