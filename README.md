@@ -10,7 +10,8 @@ Its My Site on whjr https://ananya236.whjr.site/
 
 
 - 🔭 I’m currently working on a New Game 
-- 🌱 I’m currently learning React , React-Native , Java , Python .......
+- 🌱 I’m currently learning React , React-Native , Java , Python, C++ .......
 - 👯 I’m looking to collaborate on a project 
 - 📫 How to reach me: ananya230106@gmail.com
-- 🔭 I’m currently in Class 10th
+- 🔭 I’m currently in Class 11th 
+
