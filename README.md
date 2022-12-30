@@ -9,7 +9,7 @@ Its My Site on whjr https://ananya236.whjr.site/
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya2306&langs_count=5&theme=tokyonight)]()
 
 
-- 🔭 I’m currently working on a New Game 
+- 🔭 I’m currently busy in studies ..............
 - 🌱 I’m currently learning React , React-Native , Java , Python, C++ .......
 - 👯 I’m looking to collaborate on a project 
 - 📫 How to reach me: ananya230106@gmail.com
