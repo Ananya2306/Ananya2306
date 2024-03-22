@@ -1,6 +1,6 @@
 ### Hi there 👋
-Learning JavaScript with WhiteHat Junior .
-Its My Site on whjr https://ananya236.whjr.site/
+Learning !!! 
+Its My Site on whjr (currently not working) https://ananya236.whjr.site/
 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Ananya2306&margin-w=15&column=7&row=8" />
 <a href="https://github.com/Ananya2306">
@@ -9,9 +9,9 @@ Its My Site on whjr https://ananya236.whjr.site/
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya2306&langs_count=5&theme=tokyonight)]()
 
 
-- 🔭 I’m currently busy in studies ..............
-- 🌱 I’m currently learning React , React-Native , Java , Python, C++ .......
+- 🔭 I’m currently busy in improving ..............
+- 🌱 I’m currently learning React, React-Native, Java, Python, and C++ .......
 - 👯 I’m looking to collaborate on a project 
-- 📫 How to reach me: ananya230106@gmail.com
-- 🔭 I’m currently in Class 11th 
+- 📫 How to reach me: ananyaarora230106@gmail.com
+- 🔭 ....................
 
