@@ -39,11 +39,9 @@
 ---
 
 ### 📈 GitHub Stats  
-<!-- Uncomment below lines to show stats -->
-<!--
 [![Ananya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ananya2306&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Ananya2306)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya2306&layout=compact&theme=tokyonight)](https://github.com/Ananya2306)
--->
+
 
 ---
 
