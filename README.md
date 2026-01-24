@@ -29,7 +29,7 @@
 - Open-source contributions
 
 📬 Email: **ananyaarora230106@gmail.com**  
-🔗 LinkedIn: [linkedin.com/in/ananyaarora2306](https://www.linkedin.com/in/ananyaarora2306/)
+🔗 LinkedIn: [https://www.linkedin.com/in/ananya-61314128b/](https://www.linkedin.com/in/ananya-61314128b/)
 
 ---
 
