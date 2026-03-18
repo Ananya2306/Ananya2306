@@ -184,19 +184,19 @@ class Ananya:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/ananya-61314128b/)
 [![Email](https://img.shields.io/badge/Gmail-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:ananyaarora230106@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Ananya2306)
-[![Live App](https://img.shields.io/badge/🔐_Emotion_Cipher-Try_It-7c3aed?style=for-the-badge&labelColor=0d1117)](https://mini-emotion-cipher.vercel.app)
+<!-- [![Live App](https://img.shields.io/badge/🔐_Emotion_Cipher-Try_It-7c3aed?style=for-the-badge&labelColor=0d1117)](https://mini-emotion-cipher.vercel.app) -->
 
 <br/><br/>
 
 <!-- ROW 2: CODING & COMPETITIVE -->
 <h4>⚡ Coding & Competitive</h4>
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0d1117)](https://www.kaggle.com/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)](https://leetcode.com/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0d1117)](https://www.hackerrank.com/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117)](https://codeforces.com/)
-[![Codolio](https://img.shields.io/badge/Codolio-Profile-6C63FF?style=for-the-badge&labelColor=0d1117)](https://codolio.com/)
-[![Chess.com](https://img.shields.io/badge/Chess.com-Play-81B64C?style=for-the-badge&logo=chess.com&logoColor=white&labelColor=0d1117)](https://www.chess.com/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0d1117)](https://www.kaggle.com/ananya230106)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)](https://leetcode.com/u/Ananya2306/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0d1117)](https://www.hackerrank.com/profile/Ananya2306)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117)](https://codeforces.com/profile/Ananya2306)
+[![Codolio](https://img.shields.io/badge/Codolio-Profile-6C63FF?style=for-the-badge&labelColor=0d1117)](https://codolio.com/profile/Ananya2306)
+[![Chess.com](https://img.shields.io/badge/Chess.com-Play-81B64C?style=for-the-badge&logo=chess.com&logoColor=white&labelColor=0d1117)](https://www.chess.com/member/ytube_dancing)
 
 <br/><br/>
 
